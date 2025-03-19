@@ -15,7 +15,6 @@
 # specific language governing permissions and limitations
 # under the License.
 
-# https://cwiki.apache.org/confluence/display/INFRA/.asf.yaml+features+for+git+repositories
 ---
 github:
   del_branch_on_merge: true
