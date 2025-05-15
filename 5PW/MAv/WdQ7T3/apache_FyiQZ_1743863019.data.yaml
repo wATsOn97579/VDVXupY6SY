@@ -14,7 +14,6 @@
 #   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #   limitations under the License.
 #
-#
 
 notifications:
   commits:      commits@dubbo.apache.org
